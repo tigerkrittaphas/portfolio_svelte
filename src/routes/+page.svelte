@@ -1,2 +1,8 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Tiger Chai</h1>
+
+    <p>Showing my personal information. This is try to type the paragraph to be so long so it crash with the page border. This is try to type the paragraph to be so long so it crash with the page border.</p>
+
+    <img src="images/my_image.jpeg" alt="Figure 1: CORGI!!" height="300">
+
+    
+    
