@@ -12,19 +12,10 @@ body {
 	padding:1em;
 }
 
-img {
-	max-width: 100%;
-}
-
 div.projects {
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(15em, 1fr));
 	gap: 1em;
-}
-
-article {
-	grid-template-rows: subgrid;
-	grid-row: span 3;
 }
 
 h1 {
